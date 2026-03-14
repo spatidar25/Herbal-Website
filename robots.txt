@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.credofarms.in/sitemap.xml
+Sitemap: https://www.credofarm.in/sitemap.xml
